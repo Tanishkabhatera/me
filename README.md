@@ -8,6 +8,7 @@ I work in WordPress, plain HTML, CSS and JavaScript. I keep the code here so peo
 - Local SEO: Google Business Profile, on page, content
 - Websites built from scratch, no heavy page builder
 - Small tools, like the leads CRM I built for my own site
+- build voice skills, blog agents and many more agents
 
 ### Things I built
 - **tanishkabhatera.com** — my own site. Custom WordPress template, animated hero, Rank Math score 93
